@@ -6,14 +6,16 @@ p   { background-color : powderblue ;
       color : black ;
 	  font:  small-caps medium cursive;
 	}
-nav { 
+ul { 
        list-style-type: none;
         margin: 0;
         padding: 0;
 	background-color: black ;
 	overflow: hidden;
-	font : 1.7em "Courier New" ;
       }
+li{
+	display : inline ;
+}
  h2 { 
       font : 2em "Courier New" ;
  }
