@@ -2,15 +2,15 @@ body {
       background-color : darkseagreen ; 
 	  border: medium dotted black
 	  }
-Div { background-color: black
-	font-size: 17px
-	color: white }
 p   { background-color : powderblue ; 
       color : black ;
 	  font:  small-caps medium cursive;
 	}
 ul { 
-      font : 1.7em "Courier New" ;
+      list-style-type: none;
+       margin: 0;
+        padding: 0;
+	font : 1.7em "Courier New" ;
       }
  h2 { 
       font : 2em "Courier New" ;
