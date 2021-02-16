@@ -2,6 +2,9 @@ body {
       background-color : darkseagreen ; 
 	  border: medium dotted black
 	  }
+Div { background-color: black
+	font-size: 17px
+	color: white }
 p   { background-color : powderblue ; 
       color : black ;
 	  font:  small-caps medium cursive;
