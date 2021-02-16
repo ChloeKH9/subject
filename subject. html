@@ -8,12 +8,12 @@
     <h1> This page is all about Biology 🔬 ! </h1>    <img src = " https://image.flaticon.com/icons/png/512/1648/1648674.png" alt = "Biology" > </p>
     <h3> . . . . . . . . . . .  . . . . . . . . . . . . . . . .  . . . . .. . . . . . . . . . .  . . . . . . . . . . . . . . . .  . . . . .</h3>
    
-    <ul> 
-      <li> The Cell </li>
-      <li> Plants </li>
-      <li> Energy </li>
-      <li> DNA </li> 
-    </ul>
+    <div> 
+      <a href= "#The Cell"> Cells </a>
+      <a href= "#Plants"> Plants </a>
+      <a href= "#Energy"> Energy </a>
+      <a href= "#DNA"> DNA </a>
+    </div>
     
       <h2> The Cell🧫 </h2>                  
          <P> Cells are the basic units of all living thingfs. They contain many organelles that all have specific functions, for example ribosomes produce proteins.
